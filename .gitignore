@@ -1,0 +1,13 @@
+# Dependencies
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+# Logs
+logs/
+*.log
+
+*.db
